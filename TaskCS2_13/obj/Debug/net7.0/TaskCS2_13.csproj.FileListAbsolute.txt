@@ -1,0 +1,15 @@
+C:\Users\asus\Examples2\TaskCS2_13\bin\Debug\net7.0\TaskCS2_13.exe
+C:\Users\asus\Examples2\TaskCS2_13\bin\Debug\net7.0\TaskCS2_13.deps.json
+C:\Users\asus\Examples2\TaskCS2_13\bin\Debug\net7.0\TaskCS2_13.runtimeconfig.json
+C:\Users\asus\Examples2\TaskCS2_13\bin\Debug\net7.0\TaskCS2_13.dll
+C:\Users\asus\Examples2\TaskCS2_13\bin\Debug\net7.0\TaskCS2_13.pdb
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.csproj.AssemblyReference.cache
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.AssemblyInfoInputs.cache
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.AssemblyInfo.cs
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.csproj.CoreCompileInputs.cache
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.dll
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\refint\TaskCS2_13.dll
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.pdb
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\TaskCS2_13.genruntimeconfig.cache
+C:\Users\asus\Examples2\TaskCS2_13\obj\Debug\net7.0\ref\TaskCS2_13.dll
